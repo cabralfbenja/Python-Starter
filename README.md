@@ -18,15 +18,10 @@ This repository contains a variety of projects and resources related to algorith
 
 Explore individual projects that cover a wide range of topics, from basic algorithms to advanced data structures. Each project comes with detailed documentation and code samples.
 
-### [Project 1: Name](/projects/project1)
+### [Project 1: Pygame](/projects/project1)
 
-Description of Project 1 goes here.
+Small examples made with pygame library.
 
-### [Project 2: Name](/projects/project2)
-
-Description of Project 2 goes here.
-
-### ...
 
 ## Challenges
 
